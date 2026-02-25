@@ -1,0 +1,2 @@
+Prefix plugins/SPRTA/example/
+Plugin SPRTA inputfile B.1.429_partial.maple outputfile B.1.429_partial_maple_SPRTA
